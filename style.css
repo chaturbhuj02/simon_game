@@ -1,0 +1,40 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.container{
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+.box{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    
+}
+
+.one{
+    background-color: rgb(218,90,129);
+}
+
+.two{
+    background-color: rgb(98,170,192);
+}
+
+.three{
+    background-color: rgb(251,155,68);
+}
+
+.four{
+    background-color: rgb(129,159,250);
+}
