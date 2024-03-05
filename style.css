@@ -28,13 +28,21 @@
 }
 
 .two{
-    background-color: rgb(98,170,192);
+    background-color: rgb(251,155,68);
 }
 
 .three{
-    background-color: rgb(251,155,68);
+    background-color: rgb(98,170,192);
 }
 
 .four{
     background-color: rgb(129,159,250);
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: green;
 }
